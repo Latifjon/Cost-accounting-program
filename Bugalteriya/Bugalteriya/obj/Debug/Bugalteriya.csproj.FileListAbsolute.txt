@@ -1,0 +1,16 @@
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\Bugalteriya.exe.config
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\Bugalteriya.exe
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\Bugalteriya.pdb
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\EntityFramework.dll
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\EntityFramework.xml
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.csprojAssemblyReference.cache
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.MainForm.resources
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.Properties.Resources.resources
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.csproj.GenerateResource.cache
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.csproj.CoreCompileInputs.cache
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.csproj.CopyComplete
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.exe
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.pdb
+C:\Users\l.rasulov\Desktop\Bugalteriya\Bugalteriya\obj\Debug\Bugalteriya.Migrations.ReportMigration.resources
